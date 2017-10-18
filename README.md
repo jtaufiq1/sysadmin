@@ -1,5 +1,9 @@
 # SysAdmin
 
+
 System management repository
 
-Debian Linux 
+Linux Distro's
+
+Notes
+
