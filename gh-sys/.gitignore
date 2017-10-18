@@ -1,0 +1,11 @@
+# ignore this files when staging
+
+.[oa]
+~
+*.pdf
+*.iso
+*.exe
+*.gz
+*.
+
+build/
