@@ -1,0 +1,5 @@
+echo "CLEARING TERMINAL"
+
+clear
+
+echo "SCREEN CLEARED"

@@ -1,0 +1,5 @@
+# Debian nfs-server
+
+install nfs-kernel-server package
+
+systemctl enable nfs-kernel-server
