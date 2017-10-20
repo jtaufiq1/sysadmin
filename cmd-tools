@@ -5,6 +5,8 @@ nfs
 rsync
 dirvish
 apache2
+nginx
+mailserver
 ufw
 ssh
 IDEs
