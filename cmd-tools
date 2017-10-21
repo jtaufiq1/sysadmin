@@ -6,6 +6,8 @@ rsync
 dirvish
 apache2
 nginx
+bind9
+git
 mailserver
 ufw
 ssh
