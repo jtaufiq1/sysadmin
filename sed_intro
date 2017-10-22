@@ -1,6 +1,6 @@
-first sed attr - substitute : sed 's/old/new/
+# first sed attr - substitute : sed 's/old/new/
 
-delimeters \ _ : |
+# delimeters \ _ : |
 
 sed 's/\/old\/name/\/new\/name/' <oldfile >newfile
 
@@ -9,3 +9,7 @@ sed 's|/old/name|/new/name|' <oldfile >newfile
 sed 's:/old/name:/new/name:' <oldfile >newfile
 
 sed 's_/old/name_/new/name_' <oldfile >newfile
+
+# Using (&) matched string
+
+sed 's/[a-z]*/(&)/' <old >new
