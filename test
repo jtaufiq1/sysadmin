@@ -1,2 +1,11 @@
 Sed has several commands but the most frequently used command is the substitute: 's/old/new/'
 
+
+using delimeters
+
+sed 's/\/old\/name/\/new\/name/' <oldfile >newfile
+sed 's:/old/name:/new/name:' < oldfile >newfile
+sed 's_/old/name:/new/name:' <oldfile >newfile
+sed 's|/old/name|/new/name|' <olfile >newfile
+
+/usr/local/bin
