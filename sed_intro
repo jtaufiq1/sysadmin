@@ -13,3 +13,4 @@ sed 's_/old/name_/new/name_' <oldfile >newfile
 # Using (&) matched string
 
 sed 's/[a-z]*/(&)/' <old >new
+Extended regular expression sed -r 's/[a-z]+/& &/'
