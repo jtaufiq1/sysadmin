@@ -1,0 +1,45 @@
+<h1><b>Advance bash Scripting</b></h1> 
+
+<p>Introduction to Bash Scripting 
+
+Starting on Fedora
+</p>
+
+<h2>By --Herbert Mayer <h22>
+
+<p>	No programming language is perfect.
+	There is not even a single best language;
+	there are only language well suited or perhaps
+	poorly suited for particular purposes.
+</p>
+
+
+<p>	A usefule language needs to have arrays,
+	pointers and a generic mechanism for building
+	data structures. "By these criteria, shell scripting
+	fall somewhat short of "useful" ...
+</p>
+
+<p>
+
+The sha-bang
+	#!/bin/bash
+
+VARIABLES
+	VAR_NAME=value
+	$VAR_NAME	# accessing value of VAR_NAME
+
+Exit
+	exit $EXIT_CODE
+	proper way to exit shell script (EXIT_CODE) is optional if present
+
+Conditional Statement
+
+	if...then...else...
+	fi
+
+	case "$1" 
+	checking for cmd arguments
+
+Directory Error messages to stderr
+	&>2

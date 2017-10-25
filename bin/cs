@@ -1,5 +1,67 @@
-echo "CLEARING TERMINAL"
+#!/bin/bash
 
+# variables
+
+LOG_DIR=/var/log/
+ROOT_UID=0	# ROOT USER ID
+LINES=60 # Number of lines to clean
+E_XCD=86 # can't change directory
+E_NOTROOT=87 # Non-root exit error
+# E_WRONGARGS=85 # Non numerical arguments
+
+
+# run script as root
+if [ "$UID" -ne "$ROOT_UID" ]
+then 
+	echo "Must be root to run this script."
+	exit $E_NOTROOT
+fi
+if [ -n "$1" ]
+	# Test whether command-line argument is present (non-empty).
+then
+	lines=$1
+else
+	lines=$LINES 
+	# Default, if not specified on command-line.
+fi
+
+# Better way of checking command line arguments
+# E_WRONGARGS=85 # EXIT CODE FOR WRONG ARGS
+# 
+# case "$1" in
+# ""	) lines=50;;
+# *[!0-9]*) echo "Usage: `basename $0` lines-to-cleanup";
+#	exit $E_WRONGARGS;;
+# *	) lines=$1;;
+# esac
+#
+
+echo "Changing Directory"
+
+cd $LOG_DIR
+
+if [ `pwd` != "$LOG_DIR" ]  # or if [ "PWD" != "$LOG_DIR" ]
+
+then
+	echo "can't change to $LOG_DIR."
+	exit $E_XCD
+fi  # Doublecheck if in right directory before messing with log files
+
+cat /dev/null > messages
+cat /dev/null > wtmp
+
+echo "Log files cleaned up."
+
+echo "CLEARING TERMINAL"
 clear
 
 echo "SCREEN CLEARED"
+
+# Efficient way of checking directory 
+#
+# cd /var/log/ || {
+#	echo "Cannot change to necessary Directory."
+#	exit $E_XCD;
+#
+
+exit
