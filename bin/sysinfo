@@ -1,0 +1,70 @@
+#!/bin/bash
+
+##
+#  This script show system information
+#  Shows system uptime
+#  Current date and time 
+#  Current logged in users
+#  Send this information to a logfile
+##
+
+# Variables 
+ROOT_UID=0
+LOG_DIR=/var/log # Log directory
+E_NOTROOT=85 # Not root exit code
+E_NOT_LOG_DIR=87 # Not in log Dir
+LOGFILE=sysinfo.log
+
+# Run as root
+#
+ if [ "$UID" -ne "$ROOT_UID" ]
+ then	
+	echo "run as root user"
+	exit $E_NOTROOT
+fi
+##
+
+cd $LOG_DIR
+: > $LOGFILE 
+
+echo "`hostname` system information" > $LOGFILE
+echo " " >> $LOGFILE
+# Print system date and time
+echo "+++++ Todays Date +++++" >> $LOGFILE
+echo " " >> $LOGFILE
+echo " " >> $LOGFILE
+
+date -u >> $LOGFILE
+
+# List currently logged in users
+# user
+
+echo " " >> $LOGFILE
+echo "++++++ Current Users +++++" >> $LOGFILE
+who -u >> $LOGFILE
+
+# system uptime information
+
+echo " " >> $LOGFILE
+
+echo "+++++ System Uptime +++++" >> $LOGFILE
+uptime -p >> $LOGFILE
+echo " " >> $LOGFILE
+echo " " >> $LOGFILE
+
+# process information
+top -b -u "$UID" >> $LOGFILE
+
+# send all to log file sysinfo.log
+# Change to log directory
+
+# cd $LOG_DIR
+
+# if [ "PWD" != "$LOG_DIR" ]
+# then 
+#	echo "Not in $LOG_DIR" >> $LOGFILE
+#	exit $E_NOT_LOG_DIR
+#
+
+# Exit status
+exit 0
