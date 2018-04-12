@@ -15,3 +15,6 @@ git commit -m "Commit Message in present tense"
 
 Show the previous commit made to git repo
 git log
+
+Shows Log and Latest commit and added line
+git show HEAD
