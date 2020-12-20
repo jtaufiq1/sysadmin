@@ -1,17 +1,15 @@
 #!/bin/bash
 
-# variables
-
+# VARIABLES
 LOG_DIR=/var/log
 ROOT_UID=0	# ROOT USER ID
 LINES=60 # Number of lines to clean
 E_XCD=86 # can't change directory
 E_NOTROOT=87 # Non-root exit error
-LOGFILE=sysinfo.log
-ERRLOG=sysinfo.error
-
 # E_WRONGARGS=85 # Non numerical arguments
 
+LOGFILE=sysinfo.log
+ERRLOG=sysinfo.error
 
 # run script as root
 if [ "$UID" -ne "$ROOT_UID" ]
@@ -19,6 +17,7 @@ then
 	echo "Must be root to run this script."
 	exit $E_NOTROOT >&2
 fi
+
 if [ -n "$1" ]
 	# Test whether command-line argument is present (non-empty).
 then
@@ -41,28 +40,28 @@ fi
 #
 
 echo "Changing to $LOG_DIR"
-
 cd $LOG_DIR
 
-if [ `pwd` != "$LOG_DIR" ]  # or if [ "PWD" != "$LOG_DIR" ]
-
+if [ `pwd` != "$LOG_DIR" ]	# or if [ "$PWD" != "$LOG_DIR" ]
+				# Not in /var/log	
 then
 	echo "can't change to $LOG_DIR."
 	exit $E_XCD >> $ERRLOG 
 fi  # Doublecheck if in right directory before messing with log files
 
-cd /var/log
+# More efficient way is:
+# cd /var/log || {
+#   echo "Can't change to necessary directory." >&2
+#   exit E_XCD;
 
 tail -n $lines messages > mesg.temp # Save last section of message log file.
 mv mesg.temp messages		# rename it as system log file
 
-cat /dev/null > messages
+#* cat /dev/null > messages
 
 : > sysinfo.log
 
-cat /dev/null > wtmp
-
-##  ': > wtmp' and '> wtmp' have the same effect
+cat /dev/null > wtmp # ': > wtmp and > wtmp' have the same effect.
 
 echo "Log files cleaned up."
 

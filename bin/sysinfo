@@ -27,33 +27,28 @@ fi
 cd $LOG_DIR
 : > $LOGFILE 
 
-echo "`hostname` system information" > $LOGFILE
-echo " " >> $LOGFILE
+echo "`hostname` SYSTEM INFORMATION" > $LOGFILE
+echo "" >> $LOGFILE
+
 # Print system date and time
 echo "+++++ Todays Date +++++" >> $LOGFILE
-echo " " >> $LOGFILE
-echo " " >> $LOGFILE
-
 date -u >> $LOGFILE
+echo "" >> $LOGFILE
 
 # List currently logged in users
-# user
-
-echo " " >> $LOGFILE
 echo "++++++ Current Users +++++" >> $LOGFILE
 who -u >> $LOGFILE
 
-# system uptime information
+echo "" >> $LOGFILE
 
-echo " " >> $LOGFILE
-
+# System uptime information
 echo "+++++ System Uptime +++++" >> $LOGFILE
 uptime -p >> $LOGFILE
-echo " " >> $LOGFILE
-echo " " >> $LOGFILE
+
+echo "" >> $LOGFILE
 
 # process information
-top -b -u "$UID" >> $LOGFILE
+ps auxf >> $LOGFILE
 
 # send all to log file sysinfo.log
 # Change to log directory
@@ -65,6 +60,9 @@ top -b -u "$UID" >> $LOGFILE
 #	echo "Not in $LOG_DIR" >> $LOGFILE
 #	exit $E_NOT_LOG_DIR
 #
+# cd /var/log || {
+#   echo "Can't change to $LOG_DIR"
+#   exit E_NOT_LOG_DIR
 
 # Exit status
 exit 0
