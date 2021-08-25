@@ -9,3 +9,4 @@ sed 's_/old/name:/new/name:' <oldfile >newfile
 sed 's|/old/name|/new/name|' <olfile >newfile
 
 /usr/local/bin
+\n\nGit Commit Test\n\n git commit -a -m 'commit message' [some files] [etc]
