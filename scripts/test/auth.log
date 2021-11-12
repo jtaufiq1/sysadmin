@@ -1,0 +1,898 @@
+Dec 20 11:35:01 debian CRON[16090]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 11:35:01 debian CRON[16090]: pam_unix(cron:session): session closed for user root
+Dec 20 11:40:01 debian CRON[16101]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 11:40:01 debian CRON[16101]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 11:45:01 debian CRON[16140]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 11:45:01 debian CRON[16140]: pam_unix(cron:session): session closed for user root
+Dec 20 11:55:01 debian CRON[16168]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 11:55:01 debian CRON[16168]: pam_unix(cron:session): session closed for user root
+Dec 20 12:00:01 debian CRON[16180]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 12:00:01 debian CRON[16180]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 12:05:01 debian CRON[16208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 12:05:01 debian CRON[16208]: pam_unix(cron:session): session closed for user root
+Dec 20 12:15:01 debian CRON[16236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 12:15:01 debian CRON[16236]: pam_unix(cron:session): session closed for user root
+Dec 20 12:17:01 debian CRON[16242]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 12:17:01 debian CRON[16242]: pam_unix(cron:session): session closed for user root
+Dec 20 12:20:01 debian CRON[16260]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 12:20:01 debian CRON[16260]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 12:25:01 debian CRON[16287]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 12:25:01 debian CRON[16287]: pam_unix(cron:session): session closed for user root
+Dec 20 12:35:01 debian CRON[16316]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 12:35:01 debian CRON[16316]: pam_unix(cron:session): session closed for user root
+Dec 20 12:40:01 debian CRON[16326]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 12:40:01 debian CRON[16326]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 12:45:01 debian CRON[16356]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 12:45:01 debian CRON[16356]: pam_unix(cron:session): session closed for user root
+Dec 20 12:46:56 debian sshd[10630]: pam_unix(sshd:session): session closed for user taufiq
+Dec 20 12:46:56 debian systemd-logind[417]: Session 278 logged out. Waiting for processes to exit.
+Dec 20 12:46:56 debian systemd-logind[417]: Removed session 278.
+Dec 20 12:55:01 debian CRON[16384]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 12:55:01 debian CRON[16384]: pam_unix(cron:session): session closed for user root
+Dec 20 13:00:01 debian CRON[16406]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 13:00:01 debian CRON[16406]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 13:05:01 debian CRON[16433]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 13:05:01 debian CRON[16433]: pam_unix(cron:session): session closed for user root
+Dec 20 13:15:01 debian CRON[16512]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 13:15:01 debian CRON[16512]: pam_unix(cron:session): session closed for user root
+Dec 20 13:17:01 debian CRON[16518]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 13:17:01 debian CRON[16518]: pam_unix(cron:session): session closed for user root
+Dec 20 13:20:01 debian CRON[16527]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 13:20:01 debian CRON[16527]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 13:25:01 debian CRON[16564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 13:25:01 debian CRON[16564]: pam_unix(cron:session): session closed for user root
+Dec 20 13:35:01 debian CRON[16583]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 13:35:01 debian CRON[16583]: pam_unix(cron:session): session closed for user root
+Dec 20 13:40:01 debian CRON[16603]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 13:40:01 debian CRON[16603]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 13:45:01 debian CRON[16633]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 13:45:01 debian CRON[16633]: pam_unix(cron:session): session closed for user root
+Dec 20 13:55:01 debian CRON[16658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 13:55:01 debian CRON[16658]: pam_unix(cron:session): session closed for user root
+Dec 20 14:00:01 debian CRON[16671]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 14:00:01 debian CRON[16671]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 14:05:01 debian CRON[16708]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 14:05:01 debian CRON[16708]: pam_unix(cron:session): session closed for user root
+Dec 20 14:15:01 debian CRON[16728]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 14:15:01 debian CRON[16728]: pam_unix(cron:session): session closed for user root
+Dec 20 14:17:01 debian CRON[16744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 14:17:01 debian CRON[16744]: pam_unix(cron:session): session closed for user root
+Dec 20 14:20:01 debian CRON[16751]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 14:20:01 debian CRON[16751]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 14:25:01 debian CRON[16779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 14:25:01 debian CRON[16779]: pam_unix(cron:session): session closed for user root
+Dec 20 14:35:01 debian CRON[16808]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 14:35:01 debian CRON[16808]: pam_unix(cron:session): session closed for user root
+Dec 20 14:40:01 debian CRON[16818]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 14:40:01 debian CRON[16818]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 14:45:01 debian CRON[16857]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 14:45:01 debian CRON[16857]: pam_unix(cron:session): session closed for user root
+Dec 20 14:55:01 debian CRON[16874]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 14:55:01 debian CRON[16874]: pam_unix(cron:session): session closed for user root
+Dec 20 15:00:01 debian CRON[16897]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 15:00:01 debian CRON[16897]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 15:05:02 debian CRON[16924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 15:05:02 debian CRON[16924]: pam_unix(cron:session): session closed for user root
+Dec 20 15:15:01 debian CRON[16953]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 15:15:01 debian CRON[16953]: pam_unix(cron:session): session closed for user root
+Dec 20 15:17:01 debian CRON[16958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 15:17:01 debian CRON[16958]: pam_unix(cron:session): session closed for user root
+Dec 20 15:17:45 debian sshd[16962]: Accepted password for taufiq from 192.168.137.1 port 2923 ssh2
+Dec 20 15:17:45 debian sshd[16962]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 20 15:17:45 debian systemd-logind[417]: New session 436 of user taufiq.
+Dec 20 15:17:52 debian su: (to root) taufiq on pts/0
+Dec 20 15:17:52 debian su: pam_unix(su:session): session opened for user root by taufiq(uid=1000)
+Dec 20 15:20:01 debian CRON[17311]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 15:20:01 debian CRON[17311]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 15:25:01 debian CRON[17368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 15:25:01 debian CRON[17368]: pam_unix(cron:session): session closed for user root
+Dec 20 15:35:01 debian CRON[17386]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 15:35:01 debian CRON[17386]: pam_unix(cron:session): session closed for user root
+Dec 20 15:40:01 debian CRON[17407]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 15:40:01 debian CRON[17407]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 15:45:01 debian CRON[17436]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 15:45:01 debian CRON[17436]: pam_unix(cron:session): session closed for user root
+Dec 20 15:55:01 debian CRON[17463]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 15:55:01 debian CRON[17463]: pam_unix(cron:session): session closed for user root
+Dec 20 16:00:01 debian CRON[17475]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 16:00:01 debian CRON[17475]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 16:05:01 debian CRON[17513]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 16:05:01 debian CRON[17513]: pam_unix(cron:session): session closed for user root
+Dec 20 16:15:01 debian CRON[17531]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 16:15:01 debian CRON[17531]: pam_unix(cron:session): session closed for user root
+Dec 20 16:17:01 debian CRON[17547]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 16:17:01 debian CRON[17547]: pam_unix(cron:session): session closed for user root
+Dec 20 16:20:01 debian CRON[17554]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 16:20:01 debian CRON[17554]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 16:25:01 debian CRON[17581]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 16:25:01 debian CRON[17581]: pam_unix(cron:session): session closed for user root
+Dec 20 16:35:01 debian CRON[17610]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 16:35:01 debian CRON[17610]: pam_unix(cron:session): session closed for user root
+Dec 20 16:40:02 debian CRON[17621]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 16:40:02 debian CRON[17621]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 16:45:01 debian CRON[17660]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 16:45:01 debian CRON[17660]: pam_unix(cron:session): session closed for user root
+Dec 20 16:55:01 debian CRON[17687]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 16:55:01 debian CRON[17687]: pam_unix(cron:session): session closed for user root
+Dec 20 17:00:01 debian CRON[17699]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 17:00:01 debian CRON[17699]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 17:05:01 debian CRON[17727]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 17:05:01 debian CRON[17727]: pam_unix(cron:session): session closed for user root
+Dec 20 17:15:01 debian CRON[17755]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 17:15:01 debian CRON[17755]: pam_unix(cron:session): session closed for user root
+Dec 20 17:17:01 debian CRON[17760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 17:17:01 debian CRON[17760]: pam_unix(cron:session): session closed for user root
+Dec 20 17:20:01 debian CRON[17779]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 17:20:01 debian CRON[17779]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 17:25:01 debian CRON[17806]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 17:25:01 debian CRON[17806]: pam_unix(cron:session): session closed for user root
+Dec 20 17:35:01 debian CRON[17835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 17:35:01 debian CRON[17835]: pam_unix(cron:session): session closed for user root
+Dec 20 17:39:13 debian su: pam_unix(su:session): session closed for user root
+Dec 20 17:40:01 debian CRON[17870]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 17:40:01 debian CRON[17870]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 17:45:01 debian CRON[17935]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 17:45:01 debian CRON[17935]: pam_unix(cron:session): session closed for user root
+Dec 20 17:55:01 debian CRON[18009]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 17:55:01 debian CRON[18009]: pam_unix(cron:session): session closed for user root
+Dec 20 18:00:01 debian CRON[18038]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 18:00:01 debian CRON[18038]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 18:05:01 debian CRON[18065]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 18:05:01 debian CRON[18065]: pam_unix(cron:session): session closed for user root
+Dec 20 18:15:01 debian CRON[18094]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 18:15:01 debian CRON[18094]: pam_unix(cron:session): session closed for user root
+Dec 20 18:17:01 debian CRON[18099]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 18:17:01 debian CRON[18099]: pam_unix(cron:session): session closed for user root
+Dec 20 18:20:01 debian CRON[18108]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 18:20:01 debian CRON[18108]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 18:25:01 debian CRON[18135]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 18:25:01 debian CRON[18135]: pam_unix(cron:session): session closed for user root
+Dec 20 18:35:01 debian CRON[18163]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 18:35:01 debian CRON[18163]: pam_unix(cron:session): session closed for user root
+Dec 20 18:40:01 debian CRON[18183]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 18:40:01 debian CRON[18183]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 18:45:01 debian CRON[18213]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 18:45:01 debian CRON[18213]: pam_unix(cron:session): session closed for user root
+Dec 20 18:55:01 debian CRON[18239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 18:55:01 debian CRON[18239]: pam_unix(cron:session): session closed for user root
+Dec 20 19:00:01 debian CRON[18252]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 19:00:01 debian CRON[18252]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 19:05:01 debian CRON[18279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 19:05:01 debian CRON[18279]: pam_unix(cron:session): session closed for user root
+Dec 20 19:15:01 debian CRON[18308]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 19:15:01 debian CRON[18308]: pam_unix(cron:session): session closed for user root
+Dec 20 19:17:01 debian CRON[18324]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 19:17:01 debian CRON[18324]: pam_unix(cron:session): session closed for user root
+Dec 20 19:20:01 debian CRON[18331]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 19:20:01 debian CRON[18331]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 19:25:01 debian CRON[18359]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 19:25:01 debian CRON[18359]: pam_unix(cron:session): session closed for user root
+Dec 20 19:35:01 debian CRON[18388]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 19:35:01 debian CRON[18388]: pam_unix(cron:session): session closed for user root
+Dec 20 19:40:01 debian CRON[18398]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 19:40:01 debian CRON[18398]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 19:45:01 debian CRON[18427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 19:45:01 debian CRON[18427]: pam_unix(cron:session): session closed for user root
+Dec 20 19:55:01 debian CRON[18454]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 19:55:01 debian CRON[18454]: pam_unix(cron:session): session closed for user root
+Dec 20 20:00:02 debian CRON[18477]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 20:00:02 debian CRON[18477]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 20:05:01 debian CRON[18504]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 20:05:01 debian CRON[18504]: pam_unix(cron:session): session closed for user root
+Dec 20 20:15:01 debian CRON[18533]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 20:15:01 debian CRON[18533]: pam_unix(cron:session): session closed for user root
+Dec 20 20:17:01 debian CRON[18538]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 20:17:01 debian CRON[18538]: pam_unix(cron:session): session closed for user root
+Dec 20 20:20:01 debian CRON[18546]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 20:20:01 debian CRON[18546]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 20:25:01 debian CRON[18584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 20:25:01 debian CRON[18584]: pam_unix(cron:session): session closed for user root
+Dec 20 20:35:01 debian CRON[18612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 20:35:01 debian CRON[18612]: pam_unix(cron:session): session closed for user root
+Dec 20 20:40:01 debian CRON[18623]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 20:40:01 debian CRON[18623]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 20:45:01 debian CRON[18652]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 20:45:01 debian CRON[18652]: pam_unix(cron:session): session closed for user root
+Dec 20 20:55:01 debian CRON[18736]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 20:55:01 debian CRON[18736]: pam_unix(cron:session): session closed for user root
+Dec 20 21:00:01 debian CRON[18760]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 21:00:01 debian CRON[18760]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 21:05:01 debian CRON[18822]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 21:05:01 debian CRON[18822]: pam_unix(cron:session): session closed for user root
+Dec 20 21:15:01 debian CRON[19577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 21:15:01 debian CRON[19577]: pam_unix(cron:session): session closed for user root
+Dec 20 21:17:01 debian CRON[19584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 21:17:01 debian CRON[19584]: pam_unix(cron:session): session closed for user root
+Dec 20 21:20:01 debian CRON[44991]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 21:20:01 debian CRON[44991]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 21:25:01 debian CRON[45030]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 21:25:01 debian CRON[45030]: pam_unix(cron:session): session closed for user root
+Dec 20 21:35:01 debian CRON[45061]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 21:35:01 debian CRON[45061]: pam_unix(cron:session): session closed for user root
+Dec 20 21:40:01 debian CRON[45082]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 21:40:01 debian CRON[45082]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 21:45:01 debian CRON[45111]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 21:45:01 debian CRON[45111]: pam_unix(cron:session): session closed for user root
+Dec 20 21:55:01 debian CRON[45138]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 21:55:01 debian CRON[45138]: pam_unix(cron:session): session closed for user root
+Dec 20 22:00:01 debian CRON[45155]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 22:00:01 debian CRON[45155]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 22:03:15 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/touch chown_chgrp.txt
+Dec 20 22:03:15 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:03:15 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:03:33 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/chown taufiq:taufiq
+Dec 20 22:03:33 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:03:33 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:03:41 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/chown taufiq:taufiq chown_chgrp.txt
+Dec 20 22:03:41 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:03:41 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:04:01 debian CRON[45214]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 22:04:01 debian CRON[45214]: pam_unix(cron:session): session closed for user root
+Dec 20 22:04:38 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/cp chown_chgrp.txt chown_chgrp.gh
+Dec 20 22:04:38 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:04:38 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:05:01 debian CRON[45223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 22:05:01 debian CRON[45223]: pam_unix(cron:session): session closed for user root
+Dec 20 22:05:10 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/chown gh chown_chgrp.gh
+Dec 20 22:05:10 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:05:10 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:05:28 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/chgrp chown_chgrp.gh
+Dec 20 22:05:28 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:05:29 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:05:47 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/chgrp gh chown_chgrp.gh
+Dec 20 22:05:47 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:05:47 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:06:11 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/mkdir test_own
+Dec 20 22:06:11 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:06:11 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:06:48 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/touch file{1-3}.txt
+Dec 20 22:06:48 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:06:48 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:07:15 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/rm file{1-3}.txt
+Dec 20 22:07:15 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:07:15 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:07:54 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/touch file-[1-4].txt
+Dec 20 22:07:54 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:07:54 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:08:11 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/rm file-[1-4].txt
+Dec 20 22:08:11 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:08:11 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:08:40 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/touch file-1.txt file-2.txt file-3.txt file-4.txt
+Dec 20 22:08:40 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:08:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:09:44 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/cp chown_chgrp.gh chown_chgrp.txt test_own
+Dec 20 22:09:44 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:09:44 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:11:30 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared ; USER=root ; COMMAND=/usr/bin/chown -R gh:taufiq test_own
+Dec 20 22:11:30 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:11:30 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:14:27 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/sbin/usermod -a -G video sudo gh
+Dec 20 22:14:27 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:14:27 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:14:53 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/sbin/usermod -a -G video,sudo gh
+Dec 20 22:14:53 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:14:53 debian usermod[45321]: add 'gh' to group 'sudo'
+Dec 20 22:14:53 debian usermod[45321]: add 'gh' to group 'video'
+Dec 20 22:14:53 debian usermod[45321]: add 'gh' to shadow group 'sudo'
+Dec 20 22:14:53 debian usermod[45321]: add 'gh' to shadow group 'video'
+Dec 20 22:14:53 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:15:01 debian CRON[45327]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 22:15:01 debian CRON[45327]: pam_unix(cron:session): session closed for user root
+Dec 20 22:15:35 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/sbin/usermod
+Dec 20 22:15:35 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:15:35 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:15:56 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd --help
+Dec 20 22:15:56 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:15:56 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:17:01 debian CRON[45339]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 22:17:01 debian CRON[45339]: pam_unix(cron:session): session closed for user root
+Dec 20 22:17:01 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd
+Dec 20 22:17:01 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:17:01 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:17:05 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd sudo
+Dec 20 22:17:05 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:17:30 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:17:43 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd
+Dec 20 22:17:43 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:17:43 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:18:17 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd -a gh audio
+Dec 20 22:18:17 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:18:17 debian gpasswd[45352]: user gh added by root to group audio
+Dec 20 22:18:17 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:18:54 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd -d sudo
+Dec 20 22:18:54 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:18:54 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:19:01 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd -d gh sudo
+Dec 20 22:19:01 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:19:01 debian gpasswd[45363]: user gh removed by root from group sudo
+Dec 20 22:19:01 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:19:13 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd -d gh audio
+Dec 20 22:19:13 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:19:13 debian gpasswd[45368]: user gh removed by root from group audio
+Dec 20 22:19:13 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:19:28 debian sudo:   taufiq : TTY=pts/0 ; PWD=/mnt/shared/test_own ; USER=root ; COMMAND=/usr/bin/gpasswd -d gh video
+Dec 20 22:19:28 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 20 22:19:28 debian gpasswd[45383]: user gh removed by root from group video
+Dec 20 22:19:28 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 20 22:20:01 debian CRON[45390]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 22:20:01 debian CRON[45390]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 22:25:01 debian CRON[45427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 22:25:01 debian CRON[45427]: pam_unix(cron:session): session closed for user root
+Dec 20 22:35:01 debian CRON[45458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 22:35:01 debian CRON[45458]: pam_unix(cron:session): session closed for user root
+Dec 20 22:40:01 debian CRON[45468]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 22:40:01 debian CRON[45468]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 22:45:01 debian CRON[45508]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 22:45:01 debian CRON[45508]: pam_unix(cron:session): session closed for user root
+Dec 20 22:55:01 debian CRON[45526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 22:55:01 debian CRON[45526]: pam_unix(cron:session): session closed for user root
+Dec 20 23:00:01 debian CRON[45548]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 23:00:01 debian CRON[45548]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 23:05:01 debian CRON[45575]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 23:05:01 debian CRON[45575]: pam_unix(cron:session): session closed for user root
+Dec 20 23:15:01 debian CRON[45603]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 23:15:01 debian CRON[45603]: pam_unix(cron:session): session closed for user root
+Dec 20 23:17:01 debian CRON[45609]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 23:17:01 debian CRON[45609]: pam_unix(cron:session): session closed for user root
+Dec 20 23:20:01 debian CRON[45617]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 23:20:01 debian CRON[45617]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 23:25:01 debian CRON[45654]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 23:25:01 debian CRON[45654]: pam_unix(cron:session): session closed for user root
+Dec 20 23:35:01 debian CRON[45673]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 23:35:01 debian CRON[45673]: pam_unix(cron:session): session closed for user root
+Dec 20 23:40:01 debian CRON[45693]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 20 23:40:01 debian CRON[45693]: pam_unix(cron:session): session closed for user smmsp
+Dec 20 23:45:01 debian CRON[45723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 23:45:01 debian CRON[45723]: pam_unix(cron:session): session closed for user root
+Dec 20 23:55:01 debian CRON[45749]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 23:55:01 debian CRON[45749]: pam_unix(cron:session): session closed for user root
+Dec 20 23:59:01 debian CRON[45760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 20 23:59:01 debian CRON[45760]: pam_unix(cron:session): session closed for user root
+Dec 21 00:00:01 debian CRON[45765]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 00:00:01 debian CRON[45765]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 00:05:01 debian CRON[45890]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 00:05:01 debian CRON[45890]: pam_unix(cron:session): session closed for user root
+Dec 21 00:15:01 debian CRON[45909]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 00:15:01 debian CRON[45909]: pam_unix(cron:session): session closed for user root
+Dec 21 00:17:01 debian CRON[45914]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 00:17:01 debian CRON[45914]: pam_unix(cron:session): session closed for user root
+Dec 21 00:20:01 debian CRON[45932]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 00:20:01 debian CRON[45932]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 00:25:01 debian CRON[45960]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 00:25:01 debian CRON[45960]: pam_unix(cron:session): session closed for user root
+Dec 21 00:35:01 debian CRON[45989]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 00:35:01 debian CRON[45989]: pam_unix(cron:session): session closed for user root
+Dec 21 00:40:01 debian CRON[45999]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 00:40:01 debian CRON[45999]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 00:45:02 debian CRON[46028]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 00:45:02 debian CRON[46028]: pam_unix(cron:session): session closed for user root
+Dec 21 00:55:01 debian CRON[46055]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 00:55:01 debian CRON[46055]: pam_unix(cron:session): session closed for user root
+Dec 21 01:00:01 debian CRON[46068]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 01:00:01 debian CRON[46068]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 01:05:01 debian CRON[46105]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 01:05:01 debian CRON[46105]: pam_unix(cron:session): session closed for user root
+Dec 21 01:15:01 debian CRON[46124]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 01:15:01 debian CRON[46124]: pam_unix(cron:session): session closed for user root
+Dec 21 01:17:01 debian CRON[46139]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 01:17:01 debian CRON[46139]: pam_unix(cron:session): session closed for user root
+Dec 21 01:20:01 debian CRON[46147]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 01:20:01 debian CRON[46147]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 01:25:01 debian CRON[46174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 01:25:01 debian CRON[46174]: pam_unix(cron:session): session closed for user root
+Dec 21 01:35:01 debian CRON[46202]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 01:35:01 debian CRON[46202]: pam_unix(cron:session): session closed for user root
+Dec 21 01:40:01 debian CRON[46213]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 01:40:01 debian CRON[46213]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 01:45:01 debian CRON[46252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 01:45:01 debian CRON[46252]: pam_unix(cron:session): session closed for user root
+Dec 21 01:55:01 debian CRON[46279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 01:55:01 debian CRON[46279]: pam_unix(cron:session): session closed for user root
+Dec 21 02:00:01 debian CRON[46291]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 02:00:01 debian CRON[46291]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 02:05:01 debian CRON[46329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 02:05:01 debian CRON[46329]: pam_unix(cron:session): session closed for user root
+Dec 21 02:15:01 debian CRON[46348]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 02:15:01 debian CRON[46348]: pam_unix(cron:session): session closed for user root
+Dec 21 02:17:01 debian CRON[46354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 02:17:01 debian CRON[46354]: pam_unix(cron:session): session closed for user root
+Dec 21 02:20:01 debian CRON[46371]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 02:20:01 debian CRON[46371]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 02:25:01 debian CRON[46398]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 02:25:01 debian CRON[46398]: pam_unix(cron:session): session closed for user root
+Dec 21 02:35:01 debian CRON[46427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 02:35:01 debian CRON[46427]: pam_unix(cron:session): session closed for user root
+Dec 21 02:40:01 debian CRON[46438]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 02:40:01 debian CRON[46438]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 02:45:01 debian CRON[46467]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 02:45:01 debian CRON[46467]: pam_unix(cron:session): session closed for user root
+Dec 21 02:55:01 debian CRON[46494]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 02:55:01 debian CRON[46494]: pam_unix(cron:session): session closed for user root
+Dec 21 03:00:01 debian CRON[46506]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 03:00:01 debian CRON[46506]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 03:05:01 debian CRON[46544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 03:05:01 debian CRON[46544]: pam_unix(cron:session): session closed for user root
+Dec 21 03:15:01 debian CRON[46572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 03:15:01 debian CRON[46572]: pam_unix(cron:session): session closed for user root
+Dec 21 03:17:01 debian CRON[46577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 03:17:01 debian CRON[46577]: pam_unix(cron:session): session closed for user root
+Dec 21 03:20:01 debian CRON[46586]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 03:20:01 debian CRON[46586]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 03:25:01 debian CRON[46623]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 03:25:01 debian CRON[46623]: pam_unix(cron:session): session closed for user root
+Dec 21 03:35:01 debian CRON[46642]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 03:35:01 debian CRON[46642]: pam_unix(cron:session): session closed for user root
+Dec 21 03:40:01 debian CRON[46662]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 03:40:01 debian CRON[46662]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 03:45:01 debian CRON[46691]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 03:45:01 debian CRON[46691]: pam_unix(cron:session): session closed for user root
+Dec 21 03:55:01 debian CRON[46718]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 03:55:01 debian CRON[46718]: pam_unix(cron:session): session closed for user root
+Dec 21 04:00:01 debian CRON[46730]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 04:00:01 debian CRON[46730]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 04:05:01 debian CRON[46767]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 04:05:01 debian CRON[46767]: pam_unix(cron:session): session closed for user root
+Dec 21 04:15:02 debian CRON[46786]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 04:15:02 debian CRON[46786]: pam_unix(cron:session): session closed for user root
+Dec 21 04:17:01 debian CRON[46792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 04:17:01 debian CRON[46792]: pam_unix(cron:session): session closed for user root
+Dec 21 04:20:01 debian CRON[46809]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 04:20:01 debian CRON[46809]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 04:25:01 debian CRON[46837]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 04:25:01 debian CRON[46837]: pam_unix(cron:session): session closed for user root
+Dec 21 04:35:01 debian CRON[46866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 04:35:01 debian CRON[46866]: pam_unix(cron:session): session closed for user root
+Dec 21 04:40:01 debian CRON[46876]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 04:40:01 debian CRON[46876]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 04:45:01 debian CRON[46905]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 04:45:01 debian CRON[46905]: pam_unix(cron:session): session closed for user root
+Dec 21 04:55:01 debian CRON[46932]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 04:55:01 debian CRON[46932]: pam_unix(cron:session): session closed for user root
+Dec 21 05:00:01 debian CRON[46955]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 05:00:01 debian CRON[46955]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 05:05:01 debian CRON[46982]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 05:05:01 debian CRON[46982]: pam_unix(cron:session): session closed for user root
+Dec 21 05:15:01 debian CRON[47010]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 05:15:01 debian CRON[47010]: pam_unix(cron:session): session closed for user root
+Dec 21 05:17:01 debian CRON[47015]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 05:17:01 debian CRON[47015]: pam_unix(cron:session): session closed for user root
+Dec 21 05:20:01 debian CRON[47023]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 05:20:01 debian CRON[47023]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 05:25:01 debian CRON[47051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 05:25:01 debian CRON[47051]: pam_unix(cron:session): session closed for user root
+Dec 21 19:00:01 debian CRON[47175]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 19:00:01 debian CRON[47175]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 19:05:01 debian CRON[47204]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 19:05:01 debian CRON[47204]: pam_unix(cron:session): session closed for user root
+Dec 21 19:15:01 debian CRON[47249]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 19:15:01 debian CRON[47249]: pam_unix(cron:session): session closed for user root
+Dec 21 19:17:01 debian CRON[47255]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 19:17:01 debian CRON[47255]: pam_unix(cron:session): session closed for user root
+Dec 21 19:20:01 debian CRON[47274]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 19:20:01 debian CRON[47274]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 19:25:01 debian CRON[47301]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 19:25:01 debian CRON[47301]: pam_unix(cron:session): session closed for user root
+Dec 21 19:35:01 debian CRON[47330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 19:35:01 debian CRON[47330]: pam_unix(cron:session): session closed for user root
+Dec 21 19:40:01 debian CRON[47340]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 19:40:01 debian CRON[47340]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 19:45:01 debian CRON[47369]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 19:45:01 debian CRON[47369]: pam_unix(cron:session): session closed for user root
+Dec 21 19:55:01 debian CRON[47396]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 19:55:01 debian CRON[47396]: pam_unix(cron:session): session closed for user root
+Dec 21 20:00:01 debian CRON[47418]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 20:00:01 debian CRON[47418]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 20:05:01 debian CRON[47446]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 20:05:01 debian CRON[47446]: pam_unix(cron:session): session closed for user root
+Dec 21 20:15:01 debian CRON[47474]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 20:15:01 debian CRON[47474]: pam_unix(cron:session): session closed for user root
+Dec 21 20:17:01 debian CRON[47480]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 20:17:01 debian CRON[47480]: pam_unix(cron:session): session closed for user root
+Dec 21 20:20:01 debian CRON[47488]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 20:20:01 debian CRON[47488]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 20:25:01 debian CRON[47526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 20:25:01 debian CRON[47526]: pam_unix(cron:session): session closed for user root
+Dec 21 20:35:01 debian CRON[47545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 20:35:01 debian CRON[47545]: pam_unix(cron:session): session closed for user root
+Dec 21 20:40:01 debian CRON[47565]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 20:40:01 debian CRON[47565]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 20:45:01 debian CRON[47593]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 20:45:01 debian CRON[47593]: pam_unix(cron:session): session closed for user root
+Dec 21 20:46:14 debian sshd[47598]: Accepted password for taufiq from 192.168.137.1 port 5153 ssh2
+Dec 21 20:46:14 debian sshd[47598]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 21 20:46:14 debian systemd-logind[417]: New session 600 of user taufiq.
+Dec 21 20:52:38 debian su: pam_unix(su:auth): authentication failure; logname=taufiq uid=1000 euid=0 tty=pts/1 ruser=taufiq rhost=  user=root
+Dec 21 20:52:40 debian su: FAILED SU (to root) taufiq on pts/1
+Dec 21 20:52:46 debian su: (to root) taufiq on pts/1
+Dec 21 20:52:46 debian su: pam_unix(su:session): session opened for user root by taufiq(uid=1000)
+Dec 21 20:55:01 debian CRON[47732]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 20:55:01 debian CRON[47732]: pam_unix(cron:session): session closed for user root
+Dec 21 20:55:14 debian sshd[16962]: pam_unix(sshd:session): session closed for user taufiq
+Dec 21 20:55:14 debian systemd-logind[417]: Session 436 logged out. Waiting for processes to exit.
+Dec 21 20:55:14 debian systemd-logind[417]: Removed session 436.
+Dec 21 20:55:22 debian su: pam_unix(su:session): session closed for user root
+Dec 21 21:00:01 debian CRON[47810]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 21:00:01 debian CRON[47810]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 21:04:18 debian sudo:   taufiq : TTY=pts/1 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/bin/apt-cache search curl
+Dec 21 21:04:18 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 21 21:04:18 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 21 21:04:27 debian sudo:   taufiq : TTY=pts/1 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/bin/apt-cache search curl
+Dec 21 21:04:27 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 21 21:04:27 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 21 21:04:41 debian sudo:   taufiq : TTY=pts/1 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/bin/apt-cache curl
+Dec 21 21:04:41 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 21 21:04:41 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 21 21:04:57 debian sudo:   taufiq : TTY=pts/1 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/bin/apt-cache show curl
+Dec 21 21:04:57 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 21 21:04:57 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 21 21:05:01 debian CRON[47867]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 21:05:01 debian CRON[47867]: pam_unix(cron:session): session closed for user root
+Dec 21 21:09:03 debian sudo:   taufiq : TTY=pts/1 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/sbin/ifconfig
+Dec 21 21:09:03 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 21 21:09:03 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 21 21:15:01 debian CRON[47905]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 21:15:01 debian CRON[47905]: pam_unix(cron:session): session closed for user root
+Dec 21 21:17:01 debian CRON[47914]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 21:17:01 debian CRON[47914]: pam_unix(cron:session): session closed for user root
+Dec 21 21:18:40 debian sshd[48024]: Connection closed by authenticating user taufiq 192.168.137.128 port 33362 [preauth]
+Dec 21 21:18:40 debian sshd[48032]: Connection closed by authenticating user taufiq 192.168.137.128 port 33364 [preauth]
+Dec 21 21:18:49 debian sshd[48043]: Accepted password for taufiq from 192.168.137.128 port 33366 ssh2
+Dec 21 21:18:49 debian sshd[48043]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 21 21:18:49 debian systemd-logind[417]: New session 606 of user taufiq.
+Dec 21 21:18:49 debian sshd[48049]: Received disconnect from 192.168.137.128 port 33366:11: disconnected by user
+Dec 21 21:18:49 debian sshd[48049]: Disconnected from user taufiq 192.168.137.128 port 33366
+Dec 21 21:18:49 debian sshd[48043]: pam_unix(sshd:session): session closed for user taufiq
+Dec 21 21:18:49 debian systemd-logind[417]: Session 606 logged out. Waiting for processes to exit.
+Dec 21 21:18:49 debian systemd-logind[417]: Removed session 606.
+Dec 21 21:20:01 debian CRON[48059]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 21:20:01 debian CRON[48059]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 21:21:08 debian sshd[48082]: Accepted password for taufiq from 192.168.137.1 port 5159 ssh2
+Dec 21 21:21:08 debian sshd[48082]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 21 21:21:08 debian systemd-logind[417]: New session 608 of user taufiq.
+Dec 21 21:22:20 debian sshd[48088]: Received disconnect from 192.168.137.1 port 5159:11: disconnected by user
+Dec 21 21:22:20 debian sshd[48088]: Disconnected from user taufiq 192.168.137.1 port 5159
+Dec 21 21:22:20 debian sshd[48082]: pam_unix(sshd:session): session closed for user taufiq
+Dec 21 21:22:20 debian systemd-logind[417]: Session 608 logged out. Waiting for processes to exit.
+Dec 21 21:22:20 debian systemd-logind[417]: Removed session 608.
+Dec 21 21:25:01 debian CRON[48102]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 21:25:01 debian CRON[48102]: pam_unix(cron:session): session closed for user root
+Dec 21 21:27:33 debian sshd[48120]: Accepted password for taufiq from 192.168.137.1 port 5160 ssh2
+Dec 21 21:27:33 debian sshd[48120]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 21 21:27:33 debian systemd-logind[417]: New session 610 of user taufiq.
+Dec 21 21:27:33 debian sshd[48127]: Received disconnect from 192.168.137.1 port 5160:11: disconnected by user
+Dec 21 21:27:33 debian sshd[48127]: Disconnected from user taufiq 192.168.137.1 port 5160
+Dec 21 21:27:33 debian sshd[48120]: pam_unix(sshd:session): session closed for user taufiq
+Dec 21 21:27:33 debian systemd-logind[417]: Session 610 logged out. Waiting for processes to exit.
+Dec 21 21:27:33 debian systemd-logind[417]: Removed session 610.
+Dec 21 21:28:01 debian sshd[48133]: Accepted password for taufiq from 192.168.137.1 port 5161 ssh2
+Dec 21 21:28:01 debian sshd[48133]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 21 21:28:01 debian systemd-logind[417]: New session 611 of user taufiq.
+Dec 21 21:28:01 debian sshd[48139]: Received disconnect from 192.168.137.1 port 5161:11: disconnected by user
+Dec 21 21:28:01 debian sshd[48139]: Disconnected from user taufiq 192.168.137.1 port 5161
+Dec 21 21:28:01 debian sshd[48133]: pam_unix(sshd:session): session closed for user taufiq
+Dec 21 21:28:02 debian systemd-logind[417]: Session 611 logged out. Waiting for processes to exit.
+Dec 21 21:28:02 debian systemd-logind[417]: Removed session 611.
+Dec 21 21:29:00 debian sshd[48144]: Accepted password for taufiq from 192.168.137.1 port 5162 ssh2
+Dec 21 21:29:00 debian sshd[48144]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 21 21:29:00 debian systemd-logind[417]: New session 612 of user taufiq.
+Dec 21 21:35:01 debian CRON[48186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 21:35:01 debian CRON[48186]: pam_unix(cron:session): session closed for user root
+Dec 21 21:40:01 debian CRON[48197]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 21:40:01 debian CRON[48197]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 21:45:01 debian CRON[48235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 21:45:01 debian CRON[48235]: pam_unix(cron:session): session closed for user root
+Dec 21 21:55:01 debian CRON[48263]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 21:55:01 debian CRON[48263]: pam_unix(cron:session): session closed for user root
+Dec 21 22:00:01 debian CRON[48274]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 22:00:01 debian CRON[48274]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 22:04:01 debian CRON[48302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 22:04:01 debian CRON[48302]: pam_unix(cron:session): session closed for user root
+Dec 21 22:05:01 debian CRON[48316]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 22:05:01 debian CRON[48316]: pam_unix(cron:session): session closed for user root
+Dec 21 22:15:01 debian CRON[48334]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 22:15:01 debian CRON[48334]: pam_unix(cron:session): session closed for user root
+Dec 21 22:17:01 debian CRON[48350]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 22:17:01 debian CRON[48350]: pam_unix(cron:session): session closed for user root
+Dec 21 22:20:01 debian CRON[48358]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 22:20:01 debian CRON[48358]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 22:25:01 debian CRON[48385]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 22:25:01 debian CRON[48385]: pam_unix(cron:session): session closed for user root
+Dec 21 22:35:01 debian CRON[48414]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 22:35:01 debian CRON[48414]: pam_unix(cron:session): session closed for user root
+Dec 21 22:40:01 debian CRON[48425]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 21 22:40:01 debian CRON[48425]: pam_unix(cron:session): session closed for user smmsp
+Dec 21 22:45:01 debian CRON[48463]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 22:45:01 debian CRON[48463]: pam_unix(cron:session): session closed for user root
+Dec 21 22:55:01 debian CRON[48481]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 21 22:55:01 debian CRON[48481]: pam_unix(cron:session): session closed for user root
+Dec 22 03:40:01 debian CRON[48607]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 03:40:01 debian CRON[48607]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 03:45:01 debian CRON[48634]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 03:45:01 debian CRON[48634]: pam_unix(cron:session): session closed for user root
+Dec 22 03:55:01 debian CRON[48663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 03:55:01 debian CRON[48663]: pam_unix(cron:session): session closed for user root
+Dec 22 04:00:01 debian CRON[48673]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 04:00:01 debian CRON[48673]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 04:05:01 debian CRON[48711]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 04:05:01 debian CRON[48711]: pam_unix(cron:session): session closed for user root
+Dec 22 04:15:01 debian CRON[48729]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 04:15:01 debian CRON[48729]: pam_unix(cron:session): session closed for user root
+Dec 22 04:17:01 debian CRON[48745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 04:17:01 debian CRON[48745]: pam_unix(cron:session): session closed for user root
+Dec 22 04:20:01 debian CRON[48753]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 04:20:01 debian CRON[48753]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 04:22:39 debian sshd[48144]: pam_unix(sshd:session): session closed for user taufiq
+Dec 22 04:22:39 debian systemd-logind[417]: Session 612 logged out. Waiting for processes to exit.
+Dec 22 04:22:39 debian systemd-logind[417]: Removed session 612.
+Dec 22 04:25:01 debian CRON[48782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 04:25:01 debian CRON[48782]: pam_unix(cron:session): session closed for user root
+Dec 22 04:35:01 debian CRON[48809]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 04:35:01 debian CRON[48809]: pam_unix(cron:session): session closed for user root
+Dec 22 04:40:01 debian CRON[48821]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 04:40:01 debian CRON[48821]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 04:45:01 debian CRON[48859]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 04:45:01 debian CRON[48859]: pam_unix(cron:session): session closed for user root
+Dec 22 04:55:01 debian CRON[48887]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 04:55:01 debian CRON[48887]: pam_unix(cron:session): session closed for user root
+Dec 22 05:00:01 debian CRON[48897]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 05:00:02 debian CRON[48897]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 05:05:01 debian CRON[48923]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 05:05:01 debian CRON[48923]: pam_unix(cron:session): session closed for user root
+Dec 22 05:15:01 debian CRON[48952]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 05:15:01 debian CRON[48952]: pam_unix(cron:session): session closed for user root
+Dec 22 05:17:01 debian CRON[48958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 05:17:01 debian CRON[48958]: pam_unix(cron:session): session closed for user root
+Dec 22 05:20:01 debian CRON[48966]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 05:20:01 debian CRON[48966]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 05:25:01 debian CRON[49005]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 05:25:01 debian CRON[49005]: pam_unix(cron:session): session closed for user root
+Dec 22 15:35:01 debian CRON[49115]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 15:35:01 debian CRON[49115]: pam_unix(cron:session): session closed for user root
+Dec 22 15:40:01 debian CRON[49126]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 15:40:01 debian CRON[49126]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 15:42:52 debian sshd[47598]: pam_unix(sshd:session): session closed for user taufiq
+Dec 22 15:42:52 debian systemd-logind[417]: Session 600 logged out. Waiting for processes to exit.
+Dec 22 15:42:52 debian systemd-logind[417]: Removed session 600.
+Dec 22 15:45:01 debian CRON[49182]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 15:45:01 debian CRON[49182]: pam_unix(cron:session): session closed for user root
+Dec 22 15:55:01 debian CRON[49211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 15:55:01 debian CRON[49211]: pam_unix(cron:session): session closed for user root
+Dec 22 16:00:01 debian CRON[49220]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 16:00:01 debian CRON[49220]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 16:05:01 debian CRON[49259]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 16:05:01 debian CRON[49259]: pam_unix(cron:session): session closed for user root
+Dec 22 16:15:01 debian CRON[49277]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 16:15:01 debian CRON[49277]: pam_unix(cron:session): session closed for user root
+Dec 22 16:17:01 debian CRON[49293]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 16:17:01 debian CRON[49293]: pam_unix(cron:session): session closed for user root
+Dec 22 16:20:01 debian CRON[49301]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 16:20:01 debian CRON[49301]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 16:25:01 debian CRON[49330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 16:25:01 debian CRON[49330]: pam_unix(cron:session): session closed for user root
+Dec 22 16:35:01 debian CRON[49358]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 16:35:01 debian CRON[49358]: pam_unix(cron:session): session closed for user root
+Dec 22 16:40:01 debian CRON[49368]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 16:40:01 debian CRON[49368]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 16:45:01 debian CRON[49407]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 16:45:01 debian CRON[49407]: pam_unix(cron:session): session closed for user root
+Dec 22 16:55:01 debian CRON[49425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 16:55:01 debian CRON[49425]: pam_unix(cron:session): session closed for user root
+Dec 22 17:00:01 debian CRON[49445]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 17:00:01 debian CRON[49445]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 17:05:01 debian CRON[49474]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 17:05:01 debian CRON[49474]: pam_unix(cron:session): session closed for user root
+Dec 22 17:15:01 debian CRON[49501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 17:15:01 debian CRON[49501]: pam_unix(cron:session): session closed for user root
+Dec 22 17:17:01 debian CRON[49508]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 17:17:01 debian CRON[49508]: pam_unix(cron:session): session closed for user root
+Dec 22 17:20:01 debian CRON[49514]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 17:20:01 debian CRON[49514]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 17:25:01 debian CRON[49554]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 17:25:01 debian CRON[49554]: pam_unix(cron:session): session closed for user root
+Dec 22 17:35:01 debian CRON[49582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 17:35:01 debian CRON[49582]: pam_unix(cron:session): session closed for user root
+Dec 22 17:40:01 debian CRON[49592]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 17:40:01 debian CRON[49592]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 17:45:01 debian CRON[49630]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 17:45:01 debian CRON[49630]: pam_unix(cron:session): session closed for user root
+Dec 22 17:55:01 debian CRON[49649]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 17:55:01 debian CRON[49649]: pam_unix(cron:session): session closed for user root
+Dec 22 18:00:01 debian CRON[49669]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 18:00:01 debian CRON[49669]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 18:05:01 debian CRON[49698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 18:05:01 debian CRON[49698]: pam_unix(cron:session): session closed for user root
+Dec 22 18:15:01 debian CRON[49726]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 18:15:01 debian CRON[49726]: pam_unix(cron:session): session closed for user root
+Dec 22 18:17:01 debian CRON[49732]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 18:17:01 debian CRON[49732]: pam_unix(cron:session): session closed for user root
+Dec 22 18:20:01 debian CRON[49739]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 18:20:01 debian CRON[49739]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 18:25:01 debian CRON[49779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 18:25:01 debian CRON[49779]: pam_unix(cron:session): session closed for user root
+Dec 22 18:35:01 debian CRON[49806]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 18:35:01 debian CRON[49806]: pam_unix(cron:session): session closed for user root
+Dec 22 18:40:01 debian CRON[49817]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 18:40:01 debian CRON[49817]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 18:45:01 debian CRON[49845]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 18:45:01 debian CRON[49845]: pam_unix(cron:session): session closed for user root
+Dec 22 18:55:01 debian CRON[49874]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 18:55:01 debian CRON[49874]: pam_unix(cron:session): session closed for user root
+Dec 22 19:00:01 debian CRON[49883]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 19:00:01 debian CRON[49883]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 19:05:01 debian CRON[49923]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 19:05:01 debian CRON[49923]: pam_unix(cron:session): session closed for user root
+Dec 22 19:15:02 debian CRON[49951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 19:15:02 debian CRON[49951]: pam_unix(cron:session): session closed for user root
+Dec 22 19:17:01 debian CRON[49957]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 19:17:01 debian CRON[49957]: pam_unix(cron:session): session closed for user root
+Dec 22 19:20:01 debian CRON[49964]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 19:20:01 debian CRON[49964]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 19:25:01 debian CRON[49993]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 19:25:01 debian CRON[49993]: pam_unix(cron:session): session closed for user root
+Dec 22 19:35:01 debian CRON[50021]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 19:35:01 debian CRON[50021]: pam_unix(cron:session): session closed for user root
+Dec 22 19:40:01 debian CRON[50032]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 19:40:01 debian CRON[50032]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 19:45:01 debian CRON[50070]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 19:45:01 debian CRON[50070]: pam_unix(cron:session): session closed for user root
+Dec 22 19:55:01 debian CRON[50098]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 19:55:01 debian CRON[50098]: pam_unix(cron:session): session closed for user root
+Dec 22 20:00:01 debian CRON[50107]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 20:00:01 debian CRON[50107]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 20:05:01 debian CRON[50137]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 20:05:01 debian CRON[50137]: pam_unix(cron:session): session closed for user root
+Dec 22 20:05:34 debian sshd[50144]: Accepted password for taufiq from 192.168.137.1 port 9527 ssh2
+Dec 22 20:05:34 debian sshd[50144]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 22 20:05:34 debian systemd-logind[417]: New session 693 of user taufiq.
+Dec 22 20:06:07 debian sudo:   taufiq : TTY=pts/0 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/bin/grep ssh.*Failed /var/log/auth.log
+Dec 22 20:06:07 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:06:07 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:07:12 debian sshd[50165]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.1  user=taufiq
+Dec 22 20:07:14 debian sshd[50165]: Failed password for taufiq from 192.168.137.1 port 9528 ssh2
+Dec 22 20:07:23 debian sshd[50165]: Failed password for taufiq from 192.168.137.1 port 9528 ssh2
+Dec 22 20:07:31 debian sudo:   taufiq : TTY=pts/0 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/bin/grep ssh.*Failed /var/log/auth.log
+Dec 22 20:07:31 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:07:31 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:08:24 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -f auth.log
+Dec 22 20:08:24 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:08:34 debian sshd[50165]: Failed password for taufiq from 192.168.137.1 port 9528 ssh2
+Dec 22 20:09:25 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:10:02 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/journalctl _COMM=sshd
+Dec 22 20:10:02 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:10:57 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:12:23 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ifconfig
+Dec 22 20:12:23 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:12:23 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:12:52 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/route -g
+Dec 22 20:12:52 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:12:52 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:13:12 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/route
+Dec 22 20:13:12 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:13:12 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:13:59 debian sshd[50211]: Accepted publickey for taufiq from 192.168.137.128 port 33530 ssh2: RSA SHA256:8AZ46f6cILpVrFY6hTX9LHPCGIkGlMEFFXZnM4zcMAo
+Dec 22 20:13:59 debian sshd[50211]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 22 20:13:59 debian systemd-logind[417]: New session 694 of user taufiq.
+Dec 22 20:14:20 debian sshd[50217]: Received disconnect from 192.168.137.128 port 33530:11: disconnected by user
+Dec 22 20:14:20 debian sshd[50217]: Disconnected from user taufiq 192.168.137.128 port 33530
+Dec 22 20:14:20 debian sshd[50211]: pam_unix(sshd:session): session closed for user taufiq
+Dec 22 20:14:21 debian systemd-logind[417]: Session 694 logged out. Waiting for processes to exit.
+Dec 22 20:14:21 debian systemd-logind[417]: Removed session 694.
+Dec 22 20:14:43 debian sshd[50226]: Accepted publickey for taufiq from 192.168.137.128 port 33532 ssh2: RSA SHA256:8AZ46f6cILpVrFY6hTX9LHPCGIkGlMEFFXZnM4zcMAo
+Dec 22 20:14:43 debian sshd[50226]: pam_unix(sshd:session): session opened for user taufiq by (uid=0)
+Dec 22 20:14:43 debian systemd-logind[417]: New session 695 of user taufiq.
+Dec 22 20:14:44 debian sshd[50232]: Received disconnect from 192.168.137.128 port 33532:11: disconnected by user
+Dec 22 20:14:44 debian sshd[50232]: Disconnected from user taufiq 192.168.137.128 port 33532
+Dec 22 20:14:44 debian sshd[50226]: pam_unix(sshd:session): session closed for user taufiq
+Dec 22 20:14:44 debian systemd-logind[417]: Session 695 logged out. Waiting for processes to exit.
+Dec 22 20:14:44 debian systemd-logind[417]: Removed session 695.
+Dec 22 20:15:01 debian CRON[50239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 20:15:01 debian CRON[50239]: pam_unix(cron:session): session closed for user root
+Dec 22 20:16:34 debian sshd[50248]: Accepted password for gh from 192.168.137.128 port 33536 ssh2
+Dec 22 20:16:34 debian sshd[50248]: pam_unix(sshd:session): session opened for user gh by (uid=0)
+Dec 22 20:16:34 debian systemd-logind[417]: New session 697 of user gh.
+Dec 22 20:16:35 debian systemd: pam_unix(systemd-user:session): session opened for user gh by (uid=0)
+Dec 22 20:16:37 debian sshd[50266]: Received disconnect from 192.168.137.128 port 33536:11: disconnected by user
+Dec 22 20:16:37 debian sshd[50266]: Disconnected from user gh 192.168.137.128 port 33536
+Dec 22 20:16:37 debian sshd[50248]: pam_unix(sshd:session): session closed for user gh
+Dec 22 20:16:37 debian systemd-logind[417]: Session 697 logged out. Waiting for processes to exit.
+Dec 22 20:16:37 debian systemd-logind[417]: Removed session 697.
+Dec 22 20:16:47 debian systemd: pam_unix(systemd-user:session): session closed for user gh
+Dec 22 20:17:01 debian CRON[50291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 20:17:01 debian CRON[50291]: pam_unix(cron:session): session closed for user root
+Dec 22 20:17:56 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tar -cvf log.tar ./alternatives.log ./alternatives.log.1 ./alternatives.log.2.gz ./alternatives.log.3.gz ./alternatives.log.4.gz ./alternatives.log.5.gz ./apache2 ./apt ./auth.log ./auth.log.1 ./auth.log.2.gz ./auth.log.3.gz ./auth.log.4.gz ./btmp ./btmp.1 ./cron.log ./cron.log.1 ./cron.log.2.gz ./cron.log.3.gz ./cron.log.4.gz ./daemon.log ./daemon.log.1 ./daemon.log.2.gz ./daemon.log.3.gz ./daemon.log.4.gz ./debug ./debug.1 ./debug.2.gz ./debug.3.gz ./debug.4.gz ./dpkg.log ./dpkg.log.1 ./dpkg.log.2.gz ./dpkg.log.3.gz ./dpkg.log.4.gz ./dpkg.log.5.gz ./dpkg.log.6.gz ./faillog ./installer ./kern.log ./kern.log.1 ./kern.log.2.gz ./kern.log.3.gz ./kern.log.4.gz ./lastlog ./mail.info ./mail.info.1 ./mail.info.2.gz ./mail.info.3.gz ./mail.info.4.gz ./mail.log ./mail.log.1 ./mail.log.2.gz ./mail.log.3.gz ./mail.log.4.gz ./mail.warn ./mail.warn.1 ./mail.warn.2.gz ./mail.warn.3.gz
+Dec 22 20:17:56 debian sudo:   taufiq : (command continued) ./mail.warn.4.gz ./messages ./messages.1 ./messages.2.gz ./messages.3.gz ./messages.4.gz ./postgresql ./private ./samba ./sysinfo.log ./syslog ./syslog.1 ./syslog.2.gz ./syslog.3.gz ./syslog.4.gz ./syslog.5.gz ./syslog.6.gz ./syslog.7.gz ./sysstat ./user.log ./user.log.1 ./user.log.2.gz ./user.log.3.gz ./user.log.4.gz ./vmware-install.log ./vmware-network.1.log ./vmware-network.2.log ./vmware-network.3.log ./vmware-network.4.log ./vmware-network.5.log ./vmware-network.6.log ./vmware-network.7.log ./vmware-network.8.log ./vmware-network.9.log ./vmware-network.log ./vmware-vmsvc.1.log ./vmware-vmsvc.2.log ./vmware-vmsvc.3.log ./vmware-vmsvc.log ./wtmp
+Dec 22 20:17:56 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:17:58 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:18:53 debian sshd[50306]: Accepted password for gh from 192.168.137.128 port 33542 ssh2
+Dec 22 20:18:53 debian sshd[50306]: pam_unix(sshd:session): session opened for user gh by (uid=0)
+Dec 22 20:18:53 debian systemd-logind[417]: New session 700 of user gh.
+Dec 22 20:18:53 debian systemd: pam_unix(systemd-user:session): session opened for user gh by (uid=0)
+Dec 22 20:18:53 debian sshd[50323]: Received disconnect from 192.168.137.128 port 33542:11: disconnected by user
+Dec 22 20:18:53 debian sshd[50323]: Disconnected from user gh 192.168.137.128 port 33542
+Dec 22 20:18:53 debian sshd[50306]: pam_unix(sshd:session): session closed for user gh
+Dec 22 20:18:53 debian systemd-logind[417]: Session 700 logged out. Waiting for processes to exit.
+Dec 22 20:18:53 debian systemd-logind[417]: Removed session 700.
+Dec 22 20:19:03 debian systemd: pam_unix(systemd-user:session): session closed for user gh
+Dec 22 20:20:01 debian CRON[50339]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 20:20:01 debian CRON[50339]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 20:21:47 debian sshd[50365]: Accepted password for gh from 192.168.137.128 port 33544 ssh2
+Dec 22 20:21:47 debian sshd[50365]: pam_unix(sshd:session): session opened for user gh by (uid=0)
+Dec 22 20:21:47 debian systemd-logind[417]: New session 703 of user gh.
+Dec 22 20:21:47 debian systemd: pam_unix(systemd-user:session): session opened for user gh by (uid=0)
+Dec 22 20:21:48 debian sshd[50382]: Received disconnect from 192.168.137.128 port 33544:11: disconnected by user
+Dec 22 20:21:48 debian sshd[50382]: Disconnected from user gh 192.168.137.128 port 33544
+Dec 22 20:21:48 debian sshd[50365]: pam_unix(sshd:session): session closed for user gh
+Dec 22 20:21:48 debian systemd-logind[417]: Session 703 logged out. Waiting for processes to exit.
+Dec 22 20:21:48 debian systemd-logind[417]: Removed session 703.
+Dec 22 20:21:58 debian systemd: pam_unix(systemd-user:session): session closed for user gh
+Dec 22 20:23:16 debian sshd[50393]: Accepted password for gh from 192.168.137.128 port 33546 ssh2
+Dec 22 20:23:16 debian sshd[50393]: pam_unix(sshd:session): session opened for user gh by (uid=0)
+Dec 22 20:23:16 debian systemd-logind[417]: New session 705 of user gh.
+Dec 22 20:23:16 debian systemd: pam_unix(systemd-user:session): session opened for user gh by (uid=0)
+Dec 22 20:23:29 debian sshd[50410]: Received disconnect from 192.168.137.128 port 33546:11: disconnected by user
+Dec 22 20:23:29 debian sshd[50410]: Disconnected from user gh 192.168.137.128 port 33546
+Dec 22 20:23:29 debian sshd[50393]: pam_unix(sshd:session): session closed for user gh
+Dec 22 20:23:29 debian systemd-logind[417]: Session 705 logged out. Waiting for processes to exit.
+Dec 22 20:23:29 debian systemd-logind[417]: Removed session 705.
+Dec 22 20:23:39 debian systemd: pam_unix(systemd-user:session): session closed for user gh
+Dec 22 20:25:01 debian CRON[50441]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 20:25:01 debian CRON[50441]: pam_unix(cron:session): session closed for user root
+Dec 22 20:31:29 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/ls
+Dec 22 20:31:29 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:31:29 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:31:31 debian sshd[50467]: Accepted password for gh from 192.168.137.128 port 33552 ssh2
+Dec 22 20:31:31 debian sshd[50467]: pam_unix(sshd:session): session opened for user gh by (uid=0)
+Dec 22 20:31:31 debian systemd-logind[417]: New session 708 of user gh.
+Dec 22 20:31:32 debian systemd: pam_unix(systemd-user:session): session opened for user gh by (uid=0)
+Dec 22 20:31:32 debian sshd[50486]: Received disconnect from 192.168.137.128 port 33552:11: disconnected by user
+Dec 22 20:31:32 debian sshd[50486]: Disconnected from user gh 192.168.137.128 port 33552
+Dec 22 20:31:32 debian sshd[50467]: pam_unix(sshd:session): session closed for user gh
+Dec 22 20:31:32 debian systemd-logind[417]: Session 708 logged out. Waiting for processes to exit.
+Dec 22 20:31:32 debian systemd-logind[417]: Removed session 708.
+Dec 22 20:31:42 debian systemd: pam_unix(systemd-user:session): session closed for user gh
+Dec 22 20:34:29 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tar -cf log.tar
+Dec 22 20:34:29 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:34:30 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:34:38 debian sshd[50496]: Connection closed by authenticating user gh 192.168.137.128 port 33554 [preauth]
+Dec 22 20:34:56 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tar -cf log.tar ./alternatives.log ./alternatives.log.1 ./alternatives.log.2.gz ./alternatives.log.3.gz ./alternatives.log.4.gz ./alternatives.log.5.gz ./apache2 ./apt ./auth.log ./auth.log.1 ./auth.log.2.gz ./auth.log.3.gz ./auth.log.4.gz ./btmp ./btmp.1 ./cron.log ./cron.log.1 ./cron.log.2.gz ./cron.log.3.gz ./cron.log.4.gz ./daemon.log ./daemon.log.1 ./daemon.log.2.gz ./daemon.log.3.gz ./daemon.log.4.gz ./debug ./debug.1 ./debug.2.gz ./debug.3.gz ./debug.4.gz ./dpkg.log ./dpkg.log.1 ./dpkg.log.2.gz ./dpkg.log.3.gz ./dpkg.log.4.gz ./dpkg.log.5.gz ./dpkg.log.6.gz ./faillog ./installer ./kern.log ./kern.log.1 ./kern.log.2.gz ./kern.log.3.gz ./kern.log.4.gz ./lastlog ./log.tar ./mail.info ./mail.info.1 ./mail.info.2.gz ./mail.info.3.gz ./mail.info.4.gz ./mail.log ./mail.log.1 ./mail.log.2.gz ./mail.log.3.gz ./mail.log.4.gz ./mail.warn ./mail.warn.1 ./mail.warn.2.gz ./mail.warn.3.gz
+Dec 22 20:34:56 debian sudo:   taufiq : (command continued) ./mail.warn.4.gz ./messages ./messages.1 ./messages.2.gz ./messages.3.gz ./messages.4.gz ./postgresql ./private ./samba ./sysinfo.log ./syslog ./syslog.1 ./syslog.2.gz ./syslog.3.gz ./syslog.4.gz ./syslog.5.gz ./syslog.6.gz ./syslog.7.gz ./sysstat ./user.log ./user.log.1 ./user.log.2.gz ./user.log.3.gz ./user.log.4.gz ./vmware-install.log ./vmware-network.1.log ./vmware-network.2.log ./vmware-network.3.log ./vmware-network.4.log ./vmware-network.5.log ./vmware-network.6.log ./vmware-network.7.log ./vmware-network.8.log ./vmware-network.9.log ./vmware-network.log ./vmware-vmsvc.1.log ./vmware-vmsvc.2.log ./vmware-vmsvc.3.log ./vmware-vmsvc.log ./wtmp
+Dec 22 20:34:56 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:34:57 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:35:01 debian CRON[50504]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 20:35:01 debian CRON[50504]: pam_unix(cron:session): session closed for user root
+Dec 22 20:35:06 debian sshd[50501]: Accepted password for gh from 192.168.137.128 port 33556 ssh2
+Dec 22 20:35:06 debian sshd[50501]: pam_unix(sshd:session): session opened for user gh by (uid=0)
+Dec 22 20:35:06 debian systemd-logind[417]: New session 711 of user gh.
+Dec 22 20:35:06 debian systemd: pam_unix(systemd-user:session): session opened for user gh by (uid=0)
+Dec 22 20:35:06 debian sshd[50523]: Received disconnect from 192.168.137.128 port 33556:11: disconnected by user
+Dec 22 20:35:06 debian sshd[50523]: Disconnected from user gh 192.168.137.128 port 33556
+Dec 22 20:35:06 debian sshd[50501]: pam_unix(sshd:session): session closed for user gh
+Dec 22 20:35:06 debian systemd-logind[417]: Session 711 logged out. Waiting for processes to exit.
+Dec 22 20:35:06 debian systemd-logind[417]: Removed session 711.
+Dec 22 20:35:16 debian systemd: pam_unix(systemd-user:session): session closed for user gh
+Dec 22 20:35:36 debian sudo:   taufiq : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/mv log.tar /home/taufiq/test
+Dec 22 20:35:36 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:35:36 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:38:42 debian sudo:   taufiq : TTY=pts/0 ; PWD=/run/sudo ; USER=root ; COMMAND=/usr/bin/ls
+Dec 22 20:38:42 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:38:42 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:38:59 debian su: pam_unix(su:auth): authentication failure; logname=taufiq uid=1000 euid=0 tty=pts/0 ruser=taufiq rhost=  user=root
+Dec 22 20:39:01 debian su: FAILED SU (to root) taufiq on pts/0
+Dec 22 20:39:07 debian su: (to root) taufiq on pts/0
+Dec 22 20:39:07 debian su: pam_unix(su:session): session opened for user root by taufiq(uid=1000)
+Dec 22 20:39:20 debian su: pam_unix(su:session): session closed for user root
+Dec 22 20:40:01 debian CRON[50568]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Dec 22 20:40:01 debian CRON[50568]: pam_unix(cron:session): session closed for user smmsp
+Dec 22 20:45:01 debian CRON[50598]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec 22 20:45:01 debian CRON[50598]: pam_unix(cron:session): session closed for user root
+Dec 22 20:45:55 debian sudo:   taufiq : TTY=pts/0 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/bin/chmod 2644 test
+Dec 22 20:45:55 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:45:55 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:52:22 debian sudo:   taufiq : TTY=pts/0 ; PWD=/home/taufiq/test ; USER=root ; COMMAND=/usr/bin/touch log.tar
+Dec 22 20:52:22 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:52:22 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:53:04 debian sudo:   taufiq : TTY=pts/0 ; PWD=/home/taufiq/test ; USER=root ; COMMAND=/usr/bin/chown taufiq:taufiq log.tar
+Dec 22 20:53:04 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
+Dec 22 20:53:04 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 22 20:53:49 debian sudo:   taufiq : TTY=pts/0 ; PWD=/home/taufiq ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log ./test
+Dec 22 20:53:49 debian sudo: pam_unix(sudo:session): session opened for user root by taufiq(uid=0)
