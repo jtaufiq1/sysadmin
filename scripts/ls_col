@@ -1,1 +1,0 @@
-printf "PERM\tLINKS OWNER GROUP SIZE MONTH DAY "; printf "HH:MM NAME\n" ; ls -l | sed 1d | column -t
