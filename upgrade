@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Author: Taufiq Gh.
+# Date: 27 August, 2019
+# Desc: Apt update and Upgrade script
+
+# ================================================================ 
+
+# Run as Root
+
+# Update 
+
+# Upgrade available
+
+# Update and Upgrade
+#+ Fix broken packages
+apt update && apt upgrade -y -f
+
+# Force Upgrade
+# apt upgrade --full-upgrade -y -f
+
