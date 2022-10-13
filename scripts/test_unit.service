@@ -1,8 +1,0 @@
-[Unit]
-Description=Test unit script
-
-[Service]
-ExecStart=/home/taufiq/test_script
-
-[Install]
-WantedBy=multi-user.target

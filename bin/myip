@@ -1,9 +1,0 @@
-#!/bin/sh
-
-# Current IP address on the subnet
-
-$NET_DEV=""
-$IP=""
-$SUBNET_MASK=""
-
-
