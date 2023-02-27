@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create Local Backup of File(s) in a directory
-FIND='`find ./ -type f | sed "s:^./::g"`'
+FIND="$(find ./ -type f | sed s:^./::g)"
 
 function backup()
 {

@@ -2,20 +2,25 @@
 
 # Author: Taufiq Gh.
 # Date: 27 August, 2019
-# Desc: Apt update and Upgrade script
+# Desc: Update and Upgrade script (Debian)
 
 # ================================================================ 
 
 # Run as Root
+if [ $UID -ne `id -u 0` ]
+then
+	echo -e $"Run as root"
+	exit -99;;
+fi
 
 # Update 
 
-# Upgrade available
+apt update
 
-# Update and Upgrade
-#+ Fix broken packages
-apt update && apt upgrade -y -f
+# Upgrade
+# Fix broken packages
+apt upgrade -y -f
 
-# Force Upgrade
+# Full Upgrade
 # apt upgrade --full-upgrade -y -f
 
